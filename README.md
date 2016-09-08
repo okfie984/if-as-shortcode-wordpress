@@ -61,7 +61,7 @@ This is plugin help you to add conditions inside any post types, menus, and widg
  You must login to see this content
  [/if]
  ```
- -
+
  # Translations
   * Arabic
   * English
